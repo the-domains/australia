@@ -1,0 +1,14 @@
+layout_spectrum: 0.5770305
+typography_spectrum: 0.2645737
+color:
+  saturation: 0.3452623
+  lightness: 0.1802349
+  brandStrength: 0.3136289
+  rhythmicContrast: 0.536638
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Australia

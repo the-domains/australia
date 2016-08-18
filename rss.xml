@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Australia]]></title>
+        <description><![CDATA[Australia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 03:04:49 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just one day]]></title>
+            <description><![CDATA[<article><h1>Just one day</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/334632884a79c9a480a7176967266e69/noop.jpg?input=http%3A%2F%2Fsylvainpele.com%2Fwp-content%2Fuploads%2F2016%2F08%2F201606_Sydney-sortie-1.jpg"></article>]]></description>
+            <link>http://sylvainpele.com/just-one-day/</link>
+            <guid isPermaLink="false">72287a5c-efaa-4929-bba9-3d3e8d7ffd81</guid>
+            <pubDate>Thu, 18 Aug 2016 03:04:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

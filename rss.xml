@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Australia]]></title>
         <description><![CDATA[Australia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/australia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 03:04:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Aug 2016 03:07:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/australia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Run]]></title>
+            <description><![CDATA[<article><h1>Run</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93d7f3a148d7ff91689ef471fdf750f7/noop.jpg?input=http%3A%2F%2Fsylvainpele.com%2Fwp-content%2Fuploads%2F2016%2F08%2FIMG_8958.jpg"></article>]]></description>
+            <link>http://sylvainpele.com/run/</link>
+            <guid isPermaLink="false">7a4efe04-f4bd-4e4e-85a5-ff0b127c0a94</guid>
+            <pubDate>Thu, 18 Aug 2016 03:07:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just one day]]></title>
             <description><![CDATA[<article><h1>Just one day</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/334632884a79c9a480a7176967266e69/noop.jpg?input=http%3A%2F%2Fsylvainpele.com%2Fwp-content%2Fuploads%2F2016%2F08%2F201606_Sydney-sortie-1.jpg"></article>]]></description>
